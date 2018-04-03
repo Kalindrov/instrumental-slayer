@@ -11,3 +11,5 @@ How to play?
 6. once you defeat the enemy, you can chose a new enemy to battle
 
 CLICK LINK TO BEGIN https://rocky-reef-16092.herokuapp.com/
+
+--- be patient, heroku takes a little time to spin up the wheels on the app ---
